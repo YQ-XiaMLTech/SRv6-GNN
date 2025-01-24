@@ -50,5 +50,5 @@ Through the implementation of our algorithm, we have successfully devised a meth
 _The outcome of this research is a patented method for the incremental deployment of segment routing networks using Graph Neural Networks and Reinforcement Learning._
 
 ## Equal Contributions
-This project and all associated work were equally contributed by Hongyu Yan and Yuqing Xia.
+This project and all associated work were equally contributed by Yuqing Xia and Hongyu Yan.
 
